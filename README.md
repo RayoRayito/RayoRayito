@@ -1,5 +1,6 @@
 ### Hi there 👋
-console.log("Hello World 👋")
+-console.log("Hello World 👋")
+<br>
 - 🌱 I’m currently learning JavaScript & React 
 - NOTE: Top languages & tools does not indicate my skill level or something like that.
 <br>
